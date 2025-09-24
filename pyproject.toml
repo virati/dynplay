@@ -1,0 +1,13 @@
+[project]
+name = "dynplay"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dspy>=3.0.3",
+    "dysts>=0.96",
+    "matplotlib>=3.10.6",
+    "numba>=0.62.0",
+    "sindy>=0.1.0",
+]
